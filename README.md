@@ -1,5 +1,5 @@
 # 💫 About Me:
- Building small Java-based applications to improve my coding skills and contribute to open-source projects.<br>Java projects, particularly those focused on backend development, data structures, and algorithms.<br>Learning advanced Java concepts like concurrency, multithreading, and design patterns.<br>Spring Boot, RESTful APIs, and database management with MySQL.<br>Java, OOP principles, and basic algorithms.<br>I started learning Java because I love how it powers a wide range of applications, from desktop to large-scale enterprise systems!
+🚀 I’m currently working on: Building small Java-based applications to improve my coding skills and contribute to open-source projects.<br>🤝 I’m looking to collaborate on: Java projects, particularly those focused on backend development, data structures, and algorithms.<br>🙌 I’m looking for help with: Learning advanced Java concepts like concurrency, multithreading, and design patterns.<br>📚 I’m currently learning: Spring Boot, RESTful APIs, and database management with MySQL.<br>💬 Ask me about: Java, OOP principles, DBMS  and data structure and algorithms.<br>🎉 Fun fact: I started learning Java because I love how it powers a wide range of applications, from desktop to large-scale enterprise systems!
 
 
 ## 🌐 Socials:
